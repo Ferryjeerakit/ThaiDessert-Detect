@@ -1,0 +1,13 @@
+train: /content/gdrive/MyDrive/Thai-dessert/train
+val: /content/gdrive/MyDrive/Thai-dessert/valid
+test: /content/gdrive/MyDrive/Thai-dessert/test
+
+nc: 3
+names: ['Bualoy', 'Tongyib', 'Tongyord']
+
+roboflow:
+  workspace: jeerakit-ferry
+  project: thaidessert-bo14h
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jeerakit-ferry/thaidessert-bo14h/dataset/1
